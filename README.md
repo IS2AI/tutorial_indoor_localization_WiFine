@@ -6,6 +6,9 @@ In this tutorial, we will use the simplified version of the [WiFine dataset](htt
 
 The following video provides an introduction to the problem of indoor localization, our solution and the WiFine dataset.
 
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=XQWOc9gnNCA)
+
+
 The next video introduces the the programming part of the tutorial.
 
 In this part, we will work with two Jupyter Notebooks:

@@ -5,8 +5,10 @@ The task of localization aims to determine a user’s (or an object’s) positio
 In this tutorial, we will use the simplified version of the [WiFine dataset](https://github.com/IS2AI/WiFine) to train a location prediction model. 
 
 The following video provides an introduction to the problem of indoor localization, our solution and the WiFine dataset.
-    
-The video is followed up by the programming part, which is divided into two Jupyter Notebooks:
+
+The next video introduces the the programming part of the tutorial.
+
+In this part, we will work with two Jupyter Notebooks:
 1. *indoor_localization_parts_1_2.ipynb*. 
     - Loading and preprocessing the dataset. 
     - Predicting of a user's coordinates using randrom forest regression.

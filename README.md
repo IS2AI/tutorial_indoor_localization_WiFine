@@ -6,10 +6,11 @@ In this tutorial, we will use the simplified version of the [WiFine dataset](htt
 
 The following video provides an introduction to the problem of indoor localization, our solution and the WiFine dataset.
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=XQWOc9gnNCA)
+[![video_1](https://github.com/IS2AI/tutorial_indoor_localization_WiFine/blob/main/imgs/video1.png)](https://www.youtube.com/watch?v=XQWOc9gnNCA)
 
 
 The next video introduces the the programming part of the tutorial.
+[![video_2](https://github.com/IS2AI/tutorial_indoor_localization_WiFine/blob/main/imgs/video2.png)](https://www.youtube.com/watch?v=YLmdk9oZcuU)
 
 In this part, we will work with two Jupyter Notebooks:
 1. *indoor_localization_parts_1_2.ipynb*. 
